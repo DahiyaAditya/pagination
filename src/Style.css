@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.allproducts{
+    
+    padding: 10px;
+    margin: 10px;
+    background-color: antiquewhite;
+width: 250px;
+height: 250px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.product{
+    display: flex;
+flex-wrap: wrap;
+}
+
+.page{
+    display: flex;
+}
+.number{
+    border: 1px solid black;
+    padding: 5px;
+    
+}
